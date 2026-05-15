@@ -72,4 +72,4 @@ We use SHAP kernels to explain why the model made a specific prediction, highlig
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-*Built with ❤️ for Clinical Informatics by [Ananthapadmanabhan](https://github.com/Ananthapadmanabhan333)*
+*Built for Clinical Informatics by [Ananthapadmanabhan](https://github.com/Ananthapadmanabhan333)*
